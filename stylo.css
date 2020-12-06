@@ -41,7 +41,7 @@ body {
     align-items: center; /* horizontal */
     justify-content: space-around; /* vertical */
     flex-direction: column;
-    width: 50%;
+    width: 35%;
     min-height: 34rem;
 }
 
@@ -90,6 +90,11 @@ body {
 
 .not-account {
     color: rgb(160 , 160, 160);
+}
+
+.troca-conta {
+    color: #0095f6;
+    font-weight: bolder;
 }
 
 .link-blue {
